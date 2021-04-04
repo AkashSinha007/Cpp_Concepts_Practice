@@ -1,0 +1,2 @@
+E:/SoftwareInstalledNew/MingW64_Installed/mingw64/bin/ar.exe qc ../../lib/libgmockd.a  CMakeFiles/gmock.dir/src/gmock-all.cc.obj
+E:/SoftwareInstalledNew/MingW64_Installed/mingw64/bin/ranlib.exe ../../lib/libgmockd.a

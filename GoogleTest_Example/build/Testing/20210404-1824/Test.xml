@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20210404-1824-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.15.0-rc1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Akash_pc"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19041)"
+	OSPlatform="x86"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="16168"
+	TotalPhysicalMemory="8084"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1795"
+	>
+	<Testing>
+		<StartDateTime>Apr 04 23:54 India Standard Time</StartDateTime>
+		<StartTestTime>1617560651</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTests</FullName>
+			<FullCommandLine>E:\myStudies\myCodingGround\Github_Official_Projects\Cpp_Concepts_Practice\GoogleTest_Example\build\test\ExampleTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>1.10185</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>E:\myStudies\myCodingGround\Github_Official_Projects\Cpp_Concepts_Practice\GoogleTest_Example\build\test\ExampleTests.exe</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkMtqhEAQRfd+RS11oZ3ZBrIIRlwEMoMmKxHpaUvToR+mH3n8fdpRBickMHd1qTpU3arKK8XVCJJyFScwGC2huCXyu3a+52iDy3UfiNJor3pScvfqj91+GDjjVHQHo9+QOUvyaepyrRhOzoYqZY4zJKXWo8BntK4rvqicBJLxVHKhtLXWMDLOrpuTZIxFzd1ZLVRrzB3MzBJz9dZzh1nUpGe1UAp9pGLpo/rgRiuJKrDoUj/9grcz15BzYBs1UL08wUntRSer3z01GIBF+8e/AYhvQNrkunULDE47KpLounscUpP2+lNdfuu/L4GhKoN4t9kTTjjc13XxMN+4sFn0A0hMrjU=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 04 23:54 India Standard Time</EndDateTime>
+		<EndTestTime>1617560652</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/build",
+  "command": "E:/SoftwareInstalledNew/MingW64_Installed/mingw64/bin/c++.exe    -g   -std=gnu++11 -o CMakeFiles/Example.dir/Example.cpp.obj -c E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/Example.cpp",
+  "file": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/Example.cpp"
+},
+{
+  "directory": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/build/googletest/googlemock",
+  "command": "E:/SoftwareInstalledNew/MingW64_Installed/mingw64/bin/c++.exe   @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj -c E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/gmock_main.cc",
+  "file": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/build/googletest/googlemock",
+  "command": "E:/SoftwareInstalledNew/MingW64_Installed/mingw64/bin/c++.exe   @CMakeFiles/gmock.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.obj -c E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/gmock-all.cc",
+  "file": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/build/googletest/googletest",
+  "command": "E:/SoftwareInstalledNew/MingW64_Installed/mingw64/bin/c++.exe   @CMakeFiles/gtest.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.obj -c E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googletest/src/gtest-all.cc",
+  "file": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/build/googletest/googletest",
+  "command": "E:/SoftwareInstalledNew/MingW64_Installed/mingw64/bin/c++.exe   @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj -c E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googletest/src/gtest_main.cc",
+  "file": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/build/test",
+  "command": "E:/SoftwareInstalledNew/MingW64_Installed/mingw64/bin/c++.exe   @CMakeFiles/ExampleTests.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles/ExampleTests.dir/ExampleTests.cpp.obj -c E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/test/ExampleTests.cpp",
+  "file": "E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/test/ExampleTests.cpp"
+}
+]

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/gmock-all.cc
+gmock/gmock.h
+E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/gmock/gmock.h
+src/gmock-cardinalities.cc
+E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/src/gmock-cardinalities.cc
+src/gmock-internal-utils.cc
+E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/src/gmock-internal-utils.cc
+src/gmock-matchers.cc
+E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/src/gmock-matchers.cc
+src/gmock-spec-builders.cc
+E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/src/gmock-spec-builders.cc
+src/gmock.cc
+E:/myStudies/myCodingGround/Github_Official_Projects/Cpp_Concepts_Practice/GoogleTest_Example/googletest/googlemock/src/src/gmock.cc
+
