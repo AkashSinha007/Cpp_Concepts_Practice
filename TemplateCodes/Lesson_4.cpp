@@ -46,3 +46,11 @@ int main()
     cout<<addAll(vecString)<<endl;
 
 }
+
+/*
+Output:
+CWD/Lesson_4.exe
+21
+21
+195
+*/
