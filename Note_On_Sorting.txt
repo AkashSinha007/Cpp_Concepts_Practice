@@ -10,3 +10,8 @@ Sorting Algorithms to be learnt
 8.Counting Sort
 9.Bucket Sort
 10.Shell Sort
+
+Make a table of following Time Complexity :
+Best Case
+Average case
+Worst case
