@@ -1,0 +1,12 @@
+Sorting Algorithms to be learnt
+=================================
+1.Bubble Sort
+2.Selection Sort
+3.Insertion Sort
+4.Merge Sort
+5.Heap Sort  (refer Heapify)
+6.Quick Sort (refer Randomized Quick Sort)
+7.Radix
+8.Counting Sort
+9.Bucket Sort
+10.Shell Sort
