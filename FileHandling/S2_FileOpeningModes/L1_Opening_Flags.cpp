@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     fstream myFileHandler;
-    myFileHandler.open("test1.txt",ios::out | ios::app);
+    myFileHandler.open("test2.txt",ios::out | ios::app);
 
     /*
         ios::in  - INPUT - READING
